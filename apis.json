@@ -1,0 +1,76 @@
+{
+    "name": "Ping Identity",
+    "description": "Ping Identity frees the digital enterprise by providing secure access that enables the right people to access the right things, seamlessly and securely.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2679-ping-identity.jpg",
+    "tags": [
+        "have api",
+        "identities"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ping-identity\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ping Identity",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2679-ping-identity.jpg",
+            "humanURL": "https:\/\/www.pingidentity.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ping-identity-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ping-identity-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/pingidentity"
+        },
+        {
+            "type": "Hacker News Search",
+            "url": "Ping Identity"
+        },
+        {
+            "type": "Reddit Search",
+            "url": "Ping Idnentity"
+        },
+        {
+            "type": "Stack Exchange Search",
+            "url": "Ping Identity"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.pingidentity.com\/en\/company\/blog.html"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.pingidentity.com\/content\/pic\/en\/blog.rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ping-identity-corporation"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/ping-identity-corporation"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pingidentity"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.pingidentity.com\/"
+        }
+    ]
+}
